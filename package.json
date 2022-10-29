@@ -38,5 +38,7 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "https://matsuokayuji.github.io/PokemonDex/"
+  
 }
